@@ -1,11 +1,10 @@
 {
   "lspServers": {
-    "typescript": {
-      "command": "npx",
-      "args": ["typescript-language-server", "--stdio"],
+    "rust": {
+      "command": "rust-analyzer",
+      "args": [],
       "fileExtensions": {
-        ".ts": "typescript",
-        ".js": "javascript"
+        ".rs": "rust"
       }
     }
   }
