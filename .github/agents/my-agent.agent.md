@@ -5,7 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: my agent 1 with plugin
-description:
+description: uses the tokens
 ---
 
 # My Agent
